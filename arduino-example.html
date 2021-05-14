@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>arduino-example</title>
+  </head>
+  <body>
+    <header class="arduino-header">
+      <div class="arduino-header-text">
+        Наприклад : A simple device which control level of the fuel and send
+        data to the cloud by Mqtt protocol. Technologies: SSL/TLS, Mqtt, Json,
+        FreeRTOS, Uart, LTE modem ...
+      </div>
+    </header>
+
+    <main>
+      <div class="main-content">
+        <p class="text">
+          Данную систему можно сделать, например, на базе микросхемы ESP8266.
+          Для этого потребуется установить доп. библиотеки &lsaquo;
+          ESP8266WiFi.h &rsaquo; и библиотеку Mqtt протокола &lsaquo;
+          PubSubClient.h &rsaquo; для работы с Mqtt-брокером.
+        </p>
+        <p class="text">В простейшем случае нам понадобиться:</p>
+        <ul class="list">
+          <li class="list-item">
+            <p class="text">плата ESP8266 - 2шт.(1-издатель, 2-подписчик)</p>
+          </li>
+          <li class="list-item">
+            <p class="text">датчик уровня топлива - 1шт.</p>
+          </li>
+          <li class="list-item">
+            <p class="text">Зарегестрироваться на Mqtt-брокере</p>
+          </li>
+        </ul>
+        <div class="code-text">
+          <p class="text">
+            <a href="./scatch-client-pub" target="_blank" download
+              >scatch-client-pub</a
+            >
+          </p>
+          <p class="text">
+            <a href="./scatch-client-sub" target="_blank" download
+              >scatch-client-sub</a
+            >
+          </p>
+        </div>
+      </div>
+    </main>
+    <footer class="arduino-footer"></footer>
+  </body>
+</html>

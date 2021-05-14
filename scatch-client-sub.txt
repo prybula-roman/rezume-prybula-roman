@@ -1,0 +1,73 @@
+// 
+
+#include <ESP8266WiFi.h>
+#include <PubSubClient.h>
+const char *ssid =  "AIRPORT";  // Имя вайфай точки доступа
+const char *pass =  "PASSWORD"; // Пароль от точки доступа
+
+const char *mqtt_server = "server"; // Имя сервера MQTT
+const int mqtt_port = 11140; // Порт для подключения к серверу MQTT
+const char *mqtt_user = "Login"; // Логи от сервер
+const char *mqtt_pass = "Pass"; // Пароль от сервера
+#define BUFFER_SIZE 100
+bool LedState = false;
+
+float temp=0;
+
+// Функция получения данных от сервера
+
+void callback(const MQTT::Publish& pub)
+{
+  Serial.print(pub.topic());   // выводим в сериал порт название топика
+  Serial.print(" => ");
+  Serial.print(pub.payload_string()); // выводим в сериал порт значение полученных данных
+  
+  String payload = pub.payload_string();
+  
+  if(String(pub.topic()) == "test/temp") // проверяем из нужного ли нам топика пришли данные 
+  {
+  int stled = payload.toInt(); // преобразуем полученные данные в тип integer
+  Serial.println(stled)  //  выводим полученные значения из топика
+  }
+}
+
+WiFiClient wclient;      
+PubSubClient client(wclient, mqtt_server, mqtt_port);
+
+void setup() {
+  
+  Serial.begin(115200);
+  delay(10);
+}
+
+void loop() {
+  // подключаемся к wi-fi
+  if (WiFi.status() != WL_CONNECTED) {
+    Serial.print("Connecting to ");
+    Serial.print(ssid);
+    Serial.println("...");
+    WiFi.begin(ssid, pass);
+
+    if (WiFi.waitForConnectResult() != WL_CONNECTED)
+      return;
+    Serial.println("WiFi connected");
+  }
+
+  // подключаемся к MQTT серверу
+  if (WiFi.status() == WL_CONNECTED) {
+    if (!client.connected()) {
+      Serial.println("Connecting to MQTT server");
+      if (client.connect(MQTT::Connect("arduinoClient2")
+                         .set_auth(mqtt_user, mqtt_pass))) {
+        Serial.println("Connected to MQTT server");
+        client.set_callback(callback);
+        client.subscribe("test/temp"); // подписывааемся по топик с данными 
+      } else {
+        Serial.println("Could not connect to MQTT server");   
+      }
+    }
+
+}
+} // конец основного цикла
+
+
