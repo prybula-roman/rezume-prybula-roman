@@ -1,0 +1,28 @@
+{
+  "name": "rezume-prybula-roman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prybula-roman/rezume-prybula-roman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prybula-roman/rezume-prybula-roman/issues"
+  },
+  "homepage": "https://prybula-roman.github.io/rezume-prybula-roman",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "parcel": "^2.3.1"
+  }
+}
