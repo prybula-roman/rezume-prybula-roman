@@ -1,4 +1,4 @@
-6151
+6247
 93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\callsites132890411118096542 1
 136C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\keyboardevent-location.js121436361000000000 0
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-normalize-charset\src132890410897590333 1
@@ -8,10 +8,11 @@
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\once\LICENSE130752545850000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\lib\utils\first_in_statement.js121436361000000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\BW.js121436361000000000 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\c5\e98c04923b54bb94251439dacfddfeed9a8e87132890422632070711 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss\lib\document.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\package.json132890402273617695 0
 90C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pinkie132890402274567687 1
-83C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules132890411157253667 1
+83C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules132890422558202597 1
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\mdn-data\css\at-rules.json121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\_array_without_holes.js132732112500000000 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\minimist\example\parse.js121436361000000000 0
@@ -21,7 +22,7 @@
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\p-try\package.json132890402273607682 0
 133C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-selector-parser\dist\selectors\nesting.js121436361000000000 0
 92C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\lib132890410972566555 1
-75C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist132890414190115732 1
+75C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist132890475445178533 1
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_arrayIncludesWith.js121436361000000000 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-calc\package.json132890411122426535 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\TV.js121436361000000000 0
@@ -52,7 +53,7 @@
 95C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-api132890411125916564 1
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\async\rejectLimit.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nanoid\async\index.cjs121436361000000000 0
-81C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\index.html132890410151581392 0
+81C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\index.html132890447120066706 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\fs\lib132890410889360745 1
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\utility-types\dist\utility-types.d.ts121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\trim-repeated\index.js130656398410000000 0
@@ -75,7 +76,7 @@
 92C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-what132890411118116566 1
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cssnano-preset-default\src\index.js121436361000000000 0
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@trysound\sax\lib\sax.js121436361000000000 0
-83C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\package.json132890413430252990 0
+83C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\package.json132890455541519039 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\plugins\sortAttrs.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-convert-values\src132890410897810351 1
 79C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\parshals132890397673989485 1
@@ -144,6 +145,10 @@
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\weak-lru-cache132890411123207094 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\watcher\prebuilds132890410994396573 1
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map121436361000000000 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\get.js121436361000000000 0
+115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\NE.js121436361000000000 0
+100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src132890410940291757 1
+90C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache132890422558231393 1
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_arrayReduce.js121436361000000000 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\node-gyp-build132890411126136578 1
 90C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel132890411106726550 1
@@ -334,6 +339,7 @@
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\locate-path\index.js121436361000000000 0
 92C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\entities132890411118116566 1
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\isDate.js121436361000000000 0
+177C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\index.c36f364e.js.map132890448248598496 0
 92C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\error-ex132890411126116531 1
 97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\timsort\build132890410875809574 1
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\weak-lru-cache\rollup.config.js121436361000000000 0
@@ -601,6 +607,7 @@
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\path-is-absolute132890402274487681 1
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\plugins\_path.js121436361000000000 0
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\zipAll.js121436361000000000 0
+189C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\remotes\origin\gh-pages132890422699437442 0
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\stylehacks\src\plugins\leadingUnderscore.js121436361000000000 0
 93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\path-type132890411125936551 1
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\colord\plugins\a11y.d.ts121436361000000000 0
@@ -625,6 +632,7 @@
 117C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-value-parser\lib\parse.js121436361000000000 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseExtremum.js121436361000000000 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-calc132890411122666573 1
+178C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\remotes132890422610810656 1
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-normalize-url\package.json132890411122856549 0
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\dispatchevent.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\font-size-adjust.js121436361000000000 0
@@ -697,6 +705,7 @@
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\restructure132890410949686570 1
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-normalize-url132890411123296548 1
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-discard-duplicates\LICENSE-MIT121436361000000000 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\1a132890422632270593 1
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lz4\lib\dll\example132890411068896561 1
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\utility-types\dist\index.js121436361000000000 0
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-normalize-whitespace132890411123266624 1
@@ -718,7 +727,7 @@
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\AI.js121436361000000000 0
 134C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-babel\src\remapAstLocations.js121436361000000000 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\main.js121436361000000000 0
-93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.c36f364e.js132890414189685667 0
+93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.c36f364e.js132890475444788511 0
 116C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\lib\ParcelConfig.js121436361000000000 0
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\workers\src\threads132890410909896168 1
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\stable\stable.js131691408950000000 0
@@ -805,10 +814,10 @@
 167C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js121436361000000000 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\node_modules\source-map\lib132890410894210354 1
 97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\source-map-js132890411123786692 1
-119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\node_modules\commander\LICENSE121436361000000000 0
-102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\source-map-support132890411123856619 1
-109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\lib\util\stat.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\node_modules\source-map\source-map.d.ts131709648810000000 0
+102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\source-map-support132890411123856619 1
+119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\node_modules\commander\LICENSE121436361000000000 0
+109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\lib\util\stat.js121436361000000000 0
 90C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\stable132890411123746682 1
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\fixtures\plugins132890410973136771 1
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-api\CHANGELOG.md121436361000000000 0
@@ -855,6 +864,7 @@
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nanoid\non-secure\index.d.ts121436361000000000 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js121436361000000000 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\browser132890410901549835 1
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\d5\ba723e066c1a6ba92bf653256b5e5a85f1f486132890422631920689 0
 99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\index.d.ts121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\set.js121436361000000000 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\LICENSE121436361000000000 0
@@ -932,7 +942,7 @@
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\json-source-map\spec\index.js121436361000000000 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\source-map\lib132890410892950400 1
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\minBy.js121436361000000000 0
-99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\detect-libc\bin132890410846917755 1
+99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\detect-libc\bin132890410849087751 1
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\types\timestamp.js121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\web-serial.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\defaults.js121436361000000000 0
@@ -989,6 +999,7 @@
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\browser\types.js121436361000000000 0
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\flatMapDeep.js121436361000000000 0
 128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-merge-longhand\src\lib\mergeRules.js121436361000000000 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\45\aab4bf1af1a7229538e5d51774efbb6352de60132890422632140709 0
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\plugins\cleanupAttrs.js121436361000000000 0
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\domelementtype\lib\index.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\yaml\browser\util.js121436361000000000 0
@@ -1064,6 +1075,7 @@
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\wrappy\LICENSE131080005270000000 0
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\plugins\cleanupListOfValues.js121436361000000000 0
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\restructure\utils.js121436361000000000 0
+183C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\heads\master132890422611310726 0
 114C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\code-frame\lib\index.js121012626000000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\runtime-service-worker\LICENSE121436361000000000 0
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\svgo\plugins\moveGroupAttrsToElems.js121436361000000000 0
@@ -1177,6 +1189,7 @@
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\type-fest\ts41132890410894490379 1
 141C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js121436361000000000 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\type-fest\ts41\delimiter-case.d.ts121436361000000000 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\heads132890448247488513 1
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\lib\propmangle.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-merge-longhand\src\lib\decl\boxBase.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseHas.js121436361000000000 0
@@ -1214,6 +1227,7 @@
 134C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\css-overflow-overlay.js121436361000000000 0
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\type-fest\source\literal-union.d.ts121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\lib\output.js121436361000000000 0
+184C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\commit-msg.sample132890422570890800 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\posthtml\readme.md121436361000000000 0
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\type-fest\source\merge-exclusive.d.ts121436361000000000 0
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\posthtml-parser\dist\index.js121436361000000000 0
@@ -1328,6 +1342,7 @@
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-raw\src\RawTransformer.js121436361000000000 0
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\node_modules\source-map\dist132890410878730053 1
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\conforms.js121436361000000000 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\19132890422633710608 1
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\safe-buffer\index.js121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\terser\node_modules\source-map\README.md131709651130000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\filename-reserved-regex\package.json132890402273597683 0
@@ -1699,6 +1714,7 @@
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\source-map\package.json132890411123196560 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\lib\loadConfig.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\parcel\README.md121436361000000000 0
+192C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\prepare-commit-msg.sample132890422570920756 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\keys.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss\lib\comment.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\dropWhile.js121436361000000000 0
@@ -2202,9 +2218,6 @@
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-merge-longhand\src\lib\decl\padding.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\node-index.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\is-json\package.json132890411125926651 0
-103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\package.json132890402273617695 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pify\index.js130903382770000000 0
-115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\CK.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\events\LICENSE121436361000000000 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\postcss-discard-overridden\package.json132890411125438949 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\_wrap_native_super.js132732112500000000 0
@@ -2336,6 +2349,7 @@
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_cloneTypedArray.js121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\dnssec.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pkg-dir\index.d.ts121436361000000000 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\d2\f3b3a4bd21f9497cb67095d74c31c369552499132890422631620688 0
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\wrapperReverse.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nullthrows\README.md121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pkg-dir\index.js121436361000000000 0
@@ -2348,6 +2362,9 @@
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\isEqual.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pinkie\readme.md130987961040000000 0
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-tree\lib\utils\names.js121436361000000000 0
+103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\package.json132890402273617695 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pify\index.js130903382770000000 0
+115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\CK.js121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\pify\package.json132890402273607682 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\picocolors\LICENSE121436361000000000 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\linux-arm64\node.abi88.glibc.node121436361000000000 0
@@ -2393,6 +2410,7 @@
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\parse-json\index.js121436361000000000 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\css3-attr.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\parse-json\license121436361000000000 0
+170C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\tags132890422570950774 1
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\parse-json\package.json132890411125716552 0
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\isArguments.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\parent-module\package.json132890411125736526 0
@@ -2485,6 +2503,7 @@
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\htmlparser2\node_modules\entities\lib\maps132890410860547747 1
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nth-check\lib\index.d.ts121436361000000000 0
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nth-check\lib\index.d.ts.map121436361000000000 0
+190C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\remotes\origin\HEAD132890422611100604 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nth-check\lib\index.js121436361000000000 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\async\cargo.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_setToArray.js121436361000000000 0
@@ -2601,13 +2620,14 @@
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\isLength.js121436361000000000 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nanoid\async\index.d.ts121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nanoid\async\index.js121436361000000000 0
+165C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\info132890422570940743 1
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js121436361000000000 0
 116C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\entities\lib\decode_codepoint.js121436361000000000 0
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nanoid\async\index.native.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-babel\lib\constants.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nan\CHANGELOG.md132725668230000000 0
 93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\nan\nan.h132725665470000000 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.c36f364e.js.map132890414189785666 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.c36f364e.js.map132890475444798518 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\compact.js121436361000000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr\README.md121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\win32-x64\node.abi88.node121436361000000000 0
@@ -2669,6 +2689,7 @@
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\.github132890411027886524 1
 97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\tap.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cssesc\cssesc.js121436361000000000 0
+173C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\info132890422571040738 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\index.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\invert.js121436361000000000 0
 97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-tree\dist132890410949276558 1
@@ -2698,7 +2719,7 @@
 141C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi93.musl.node121436361000000000 0
 136C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi93.node121436361000000000 0
 142C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\linux-arm64\electron.abi98.node121436361000000000 0
-96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.html132890414189586201 0
+96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.html132890475444388582 0
 139C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\linux-arm64\node.abi102.node121436361000000000 0
 138C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\linux-arm64\node.abi83.node121436361000000000 0
 138C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\msgpackr-extract\prebuilds\darwin-x64\node.abi102.node121436361000000000 0
@@ -2945,8 +2966,6 @@
 93C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp132890402268506446 1
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\functionsIn.js121436361000000000 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\get.js121436361000000000 0
-115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\NE.js121436361000000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\GL.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_hasUnicode.js121436361000000000 0
 141C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md121436361000000000 0
@@ -3061,6 +3080,7 @@
 99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\plant.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\propertyOf.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\toPairsIn.js121436361000000000 0
+182C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-push.sample132890422570920756 0
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\pull.js121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\lib132890410971166564 1
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\pullAllBy.js121436361000000000 0
@@ -3163,6 +3183,7 @@
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\use-strict.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\wrapperChain.js121436361000000000 0
 97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\xor.js121436361000000000 0
+190C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\push-to-checkout.sample132890422570930768 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\zipObjectDeep.js121436361000000000 0
 99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\semver.cmd132890402274937719 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_arrayAggregator.js121436361000000000 0
@@ -3179,6 +3200,7 @@
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\reduceRight.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseAssignValue.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseClamp.js121436361000000000 0
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\post-update.sample132890422570900926 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\next.js121436361000000000 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseConforms.js121436361000000000 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js121436361000000000 0
@@ -3194,6 +3216,7 @@
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseDifference.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseEvery.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseFindKey.js121436361000000000 0
+177C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\scatch-client-pub.txt132890448248658519 0
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\ch-unit.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\_baseForOwn.js121436361000000000 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-tree\lib\syntax\node\Declaration.js121436361000000000 0
@@ -3380,6 +3403,7 @@
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\capitalize.js121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\ceil.js121436361000000000 0
 125C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cosmiconfig\dist\getPropertyByPath.js.map121436361000000000 0
+168C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects132890448234368469 1
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\_to_property_key.js132732112500000000 0
 102C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\chunk.js121436361000000000 0
 139C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-html\node_modules\semver\bin\semver121436361000000000 0
@@ -3489,6 +3513,7 @@
 133C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\darwin-arm64\node.abi83.glibc.node121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\head.js121436361000000000 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\open.js121436361000000000 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\ff132890422633630607 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\includesFrom.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\indexBy.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\inRange.js121436361000000000 0
@@ -3503,6 +3528,7 @@
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\watcher\README.md121436361000000000 0
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\invoke.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\invokeArgsMap.js121436361000000000 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\0c\db1b2998e06d35a7f870fc863ffe72b17b87bf132890422631680687 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\linux-arm64\node.abi102.musl.node121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\htmlnano\docs\docs\060-contribute.md121436361000000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\CZ.js121436361000000000 0
@@ -3567,6 +3593,8 @@
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\meanBy.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\mergeAll.js121436361000000000 0
+190C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-merge-commit.sample132890422570910847 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\ff\b7efbd69ccf0f44a4b763bac0db751b947f111132890422633610600 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\mergeAllWith.js121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\pipe.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\mergeWith.js121436361000000000 0
@@ -3712,7 +3740,7 @@
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\trim.js121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\trimChars.js121436361000000000 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\trimEnd.js121436361000000000 0
-96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.a1e6c8f5.js132890414189685667 0
+96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.a1e6c8f5.js132890475444818520 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\json5\lib\unicode.d.ts121436361000000000 0
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\trimStart.js121436361000000000 0
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\linux-x64\node.abi102.glibc.node121436361000000000 0
@@ -3726,6 +3754,7 @@
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\unionBy.js121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\uniq.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\htmlnano\docs\versioned_docs\version-1.1.1132890410951886982 1
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\1a\4352b99b31c510de2bff0ab788af364b011c62132890422632260618 0
 114C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\watcher\src\binding.cc121436361000000000 0
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\uniqBy.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lodash\fp\uniqueId.js121436361000000000 0
@@ -3809,8 +3838,8 @@
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\darwin-arm64132890411063266546 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\darwin-x64132890411063856581 1
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\linux-arm64132890411065066554 1
-128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\win32-x64\electron.abi99.node121436361000000000 0
 128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\iframe-sandbox.js121436361000000000 0
+128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\win32-x64\electron.abi99.node121436361000000000 0
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\media-session-api.js121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\win32-x64\node.abi93.node121436361000000000 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\prebuilds\linux-x64\node.abi72.musl.node121436361000000000 0
@@ -3863,6 +3892,7 @@
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\htmlparser2\lib\Parser.d.ts121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lz4\lib\.npmignore121436361000000000 0
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lz4\lib\dll132890411020166823 1
+176C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\heads132890422633750703 1
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-tree\lib\syntax\atrule\import.js121436361000000000 0
 117C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lz4\lib\LICENSE121436361000000000 0
@@ -3890,6 +3920,7 @@
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\color-convert\index.js121436361000000000 0
 143C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1121436361000000000 0
 143C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c121436361000000000 0
+166C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks132890422570930768 1
 139C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h121436361000000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\packager-js\lib\dev-prelude.js121436361000000000 0
 141C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c121436361000000000 0
@@ -3975,6 +4006,7 @@
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\is-arrayish\.istanbul.yml130849956100000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\AZ.js121436361000000000 0
 103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\is-arrayish\LICENSE130849956100000000 0
+173C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\info\exclude132890422570940743 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\is-arrayish\README.md130849957040000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\filenamify\index.d.ts121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\inherits\LICENSE121436361000000000 0
@@ -4129,6 +4161,7 @@
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\AL.js121436361000000000 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\abortcontroller-polyfill\README.md121436361000000000 0
 96C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\lib132890402249726491 1
+177C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\scatch-client-sub.txt132890448248658519 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\lib\copy132890402246305225 1
 106C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\fs-extra\lib\copy-sync132890402246015240 1
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\package-manager\lib\types.d.ts121436361000000000 0
@@ -4321,6 +4354,7 @@
 98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\clean132890410950986564 1
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\css-what\lib\index.d.ts121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\usage.js121436361000000000 0
+170C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\HEAD132890448247488513 0
 145C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src132890410972226571 1
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\restructure\4-restructShorthand.js121436361000000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\restructure\7-mergeRuleset.js121436361000000000 0
@@ -4331,6 +4365,7 @@
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\css-image-set.js121436361000000000 0
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\restructure\prepare\specificity.js121436361000000000 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\replace\atrule132890410948366592 1
+188C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\applypatch-msg.sample132890422570880981 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\replace\color.js121436361000000000 0
 125C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-svg\node_modules\.bin132890411127946257 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\lib\replace\index.js121436361000000000 0
@@ -4354,7 +4389,7 @@
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\csso\dist\csso.min.js121436361000000000 0
 107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cssnano-utils\README.md121436361000000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\CV.js121436361000000000 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-photo.b42a636d.jpg132890414189735701 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-photo.b42a636d.jpg132890475445148521 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cssnano-utils\src\index.js121436361000000000 0
 137C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc121436361000000000 0
 113C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\cssnano-utils\src\rawCache.js121436361000000000 0
@@ -4602,6 +4637,7 @@
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\dist\lib\supported.js121436361000000000 0
 137C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js121436361000000000 0
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\agents.js121436361000000000 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\0c132890422631700630 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\src\blob.js121436361000000000 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\AD.js121436361000000000 0
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\regions\alt-as.js121436361000000000 0
@@ -4860,6 +4896,7 @@
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\datauri.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\devicepixelratio.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\do-not-track.js121436361000000000 0
+173C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\pack132890433172420054 1
 137C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js121436361000000000 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\document-policy.js121436361000000000 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\dom-range.js121436361000000000 0
@@ -4938,6 +4975,7 @@
 133C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\link-rel-preconnect.js121436361000000000 0
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\link-rel-prefetch.js121436361000000000 0
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\link-rel-preload.js121436361000000000 0
+178C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\index.b2625c6b.css.map132890448248598496 0
 127C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\localecompare.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\magnetometer.js121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\mathml.js121436361000000000 0
@@ -5017,6 +5055,7 @@
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\resource-timing.js121436361000000000 0
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\rtcpeerconnection.js121436361000000000 0
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\run-in.js121436361000000000 0
+155C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git132890448248238521 1
 140C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js121436361000000000 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\screen-orientation.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\script-defer.js121436361000000000 0
@@ -5039,6 +5078,7 @@
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\srcset.js121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\style-scoped.js121436361000000000 0
 135C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\subresource-integrity.js121436361000000000 0
+172C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\description132890422570870828 0
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\svg-css.js121436361000000000 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\svg-fonts.js121436361000000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\svg-html.js121436361000000000 0
@@ -5092,10 +5132,12 @@
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\webxr.js121436361000000000 0
 125C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\will-change.js121436361000000000 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\woff.js121436361000000000 0
+188C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-applypatch.sample132890422570900926 0
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\optimizer-image\LICENSE121436361000000000 0
 124C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\word-break.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\async\detectSeries.js121436361000000000 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\wordwrap.js121436361000000000 0
+180C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\heads\gh-pages132890422633740592 0
 119C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\xhtml.js121436361000000000 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-css\node_modules\.bin\semver132890411127166539 0
 123C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\caniuse-lite\data\features\xhtmlsmil.js121436361000000000 0
@@ -5239,7 +5281,6 @@
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\.vscode132890410857857746 1
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\lib\requests\ValidationRequest.js121436361000000000 0
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\package.json132890411117656573 0
-100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src132890410940291757 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\index.js132811082490000000 0
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\_apply_decorated_descriptor.js132732112750000000 0
 121C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\src\_array_with_holes.js132732112500000000 0
@@ -5295,7 +5336,7 @@
 131C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js132811082760000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_await_async_generator.js132811082760000000 0
 116C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_await_value.js132811082760000000 0
-98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.b2625c6b.css.map132890414190005829 0
+98C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.b2625c6b.css.map132890475439739414 0
 125C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_class_name_tdz_error.js132811082760000000 0
 135C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js132811082760000000 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@swc\helpers\lib\_class_private_method_get.js132811082760000000 0
@@ -5450,6 +5491,7 @@
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\sourcemap132890411017516543 1
 128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\sourcemap\inline.js121436361000000000 0
 134C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js121436361000000000 0
+184C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-commit.sample132890422570910847 0
 136C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js121436361000000000 0
 140C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map121436361000000000 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\utils\test\input\config\empty.json121436361000000000 0
@@ -5542,6 +5584,7 @@
 115C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\src132890410860937747 1
 128C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\src\constants.js121436361000000000 0
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\src\loadConfig.js121436361000000000 0
+160C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git132890448250048510 1
 130C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\src\loadPlugins.js121436361000000000 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\codeframe\src132890410947296549 1
 137C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js121436361000000000 0
@@ -5738,7 +5781,7 @@
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\packager-js\src\dev-prelude.js121436361000000000 0
 100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\detect-libc132890411128112082 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\packager-js\src\DevPackager.js121436361000000000 0
-89C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.html132890414189586201 0
+89C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.html132890475444388582 0
 126C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\packager-js\src\ESMOutputFormat.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\cache\src\types.js121436361000000000 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\packager-js\src\helpers.js121436361000000000 0
@@ -5949,6 +5992,7 @@
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts121436361000000000 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test132890411023646709 1
 120C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\AssetGraph.test.js121436361000000000 0
+180C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\update.sample132890422570930768 0
 122C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\EntryRequest.test.js121436361000000000 0
 110C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\fixtures132890411035457180 1
 129C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\core\test\ParcelConfigRequest.test.js121436361000000000 0
@@ -6074,6 +6118,7 @@
 87C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\img\my-photo.jpg132890387491963411 0
 118C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\codeframe\lib\codeframe.js121436361000000000 0
 108C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\cache\index.d.ts121436361000000000 0
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\remotes\origin\main132890433172350051 0
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\cache\src132890410871257769 1
 114C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\cache\src\LMDBCache.js121436361000000000 0
 112C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@parcel\cache\lib\FSCache.js121436361000000000 0
@@ -6101,6 +6146,7 @@
 101C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\browserslist132890411128552056 0
 135C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\highlight\node_modules\color-name\.npmignore130800019150000000 0
 133C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\highlight\node_modules\color-name\index.js131446304070000000 0
+187C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\arduino-example.9cbb0c3a.js.map132890448248598496 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\highlight\node_modules\color-name\LICENSE130953959930000000 0
 134C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\highlight\node_modules\color-name\README.md131339336430000000 0
 132C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\highlight\node_modules\color-name\test.js131446304190000000 0
@@ -6124,6 +6170,56 @@
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\code-frame\lib132890410920661586 1
 109C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\code-frame\LICENSE121012626000000000 0
 111C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\@babel\code-frame\README.md121012626000000000 0
+99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages132890422570850874 1
+183C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\arduino-example.9cbb0c3a.js132890448248598496 0
+176C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\arduino-example.html132890448248598496 0
+174C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\index.b2625c6b.css132890448248590031 0
+173C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\index.c36f364e.js132890448248598496 0
+166C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\index.html132890448248598496 0
+177C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\my-photo.b42a636d.jpg132890448248668519 0
+176C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\my-progs.a1e6c8f5.js132890448248988607 0
+180C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\my-progs.a1e6c8f5.js.map132890448248648518 0
+169C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\my-progs.html132890448248598496 0
+175C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\COMMIT_EDITMSG132890422633680614 0
+167C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\config132890448250038504 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\FETCH_HEAD132890448233498497 0
+165C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\HEAD132890448246548573 0
+166C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\index132890448249468504 0
+165C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs132890422611260609 1
+170C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\ORIG_HEAD132890433185660065 0
+172C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\packed-refs132890422610630736 0
+165C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs132890422610710767 1
+173C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\remotes132890422610720713 1
+180C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\remotes\origin132890448296078505 1
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\remotes\origin\HEAD132890422611110632 0
+178C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\refs\heads\master132890422611260609 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\1f132890422632230601 1
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\b0\324c338f4528314b1a1a65f0db6b5816313757132890422631580613 0
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\35132890422632041135 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\45132890422632180588 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\b0132890422631590603 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\c1132890422632000815 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\c5132890422632100655 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\d2132890422631640667 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\d5132890422631940669 1
+171C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\f0132890422631560605 1
+223C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\pack\pack-496800c09651149d94aac309f66d895b55aaec38.idx132890433164190032 0
+224C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\pack\pack-496800c09651149d94aac309f66d895b55aaec38.pack132890448249438509 0
+223C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\pack\pack-f3ac4d7776a388e8cdb9fbb9699222ea7c1d879e.idx132890422608630741 0
+224C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\pack\pack-f3ac4d7776a388e8cdb9fbb9699222ea7c1d879e.pack132890448249458515 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\f0\3dc796a2387a6414078c12f7b5d56fd58f1162132890422631540592 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\c1\be3c86cf3a1e5f403afc43f709dd3d28518b17132890422631980677 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\35\6c67e49247658c81c77a030635b33823aa83b6132890422632020666 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\1f\f73cd3d3f6092201d654e85834d905d898cd0c132890422632210627 0
+210C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\objects\19\3a0ce7a03206e9168ccd4d867ede53822c62f6132890422633700615 0
+170C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs132890422611280607 1
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\remotes\origin132890433172370040 1
+194C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\remotes\origin\gh-pages132890422699467388 0
+190C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\remotes\origin\main132890433172390027 0
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\logs\refs\heads\gh-pages132890422633750703 0
+192C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\fsmonitor-watchman.sample132890422570900926 0
+184C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-rebase.sample132890422570920756 0
+185C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.cache\gh-pages\https!github.com!prybula-roman!rezume-prybula-roman.git\.git\hooks\pre-receive.sample132890422570920756 0
 105C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\browserslist.cmd132890411128552056 0
 99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\cssesc.cmd132890411128044664 0
 104C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\detect-libc.cmd132890411128112082 0
@@ -6142,11 +6238,11 @@
 99C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\node_modules\.bin\terser.ps1132890411128792054 0
 84C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\img\hobbi.jpg132890387491942531 0
 84C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\img\photo.jpg132890387492022524 0
-103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.9cbb0c3a.js132890414189715675 0
-107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.9cbb0c3a.js.map132890414190035763 0
-94C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.b2625c6b.css132890414189586201 0
-86C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.html132890414189575672 0
-100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.a1e6c8f5.js.map132890414190005829 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\scatch-client-pub.txt132890414189575672 0
-97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\scatch-client-sub.txt132890414189575672 0
+103C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.9cbb0c3a.js132890475444818520 0
+107C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\arduino-example.9cbb0c3a.js.map132890475444908536 0
+94C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.b2625c6b.css132890475439739414 0
+86C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\index.html132890475444288668 0
+100C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\my-progs.a1e6c8f5.js.map132890475444898598 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\scatch-client-pub.txt132890475424722093 0
+97C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\dist\scatch-client-sub.txt132890475424722093 0
 84C:\Users\pribula_ra\Desktop\my_projects\my_rezume\rezume-prybula-roman\css\style.css132890387490912555 0
